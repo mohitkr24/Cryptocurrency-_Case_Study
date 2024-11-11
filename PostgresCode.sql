@@ -1,7 +1,7 @@
 /********************************************************************
 Name	: Code for Cryptocurrency DB
-Author	: Amit Patel
-Date	: Apr 27, 2023
+Author	: Mohit Kumar
+Date	: November 12 ,2024
 
 Purpose: This script will create Db and few table in it to store info 
 about Cryptocurrency
