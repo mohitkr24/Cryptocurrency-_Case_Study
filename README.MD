@@ -17,13 +17,7 @@ Each case-study folder contains the following files
 - .csv files containing the raw data for each table to import
 - MD files which contains SQL queries answering the respective questions
 
-You can find the solution [here](https://github.com/AmitPatel-analyst/SQL-Case-Study/blob/main/Cryptocurrency/Cryptocurrency%20Solutions.md)   
+
 **Note**: 
 - Solutions are coded in **PostgreSQL**
 
-## Support
-Give a ⭐️ if you like this project!
-# About the Author: Danny Ma
-
-Danny is the Chief Data Mentor at Data With Danny and the Founder & CEO of Sydney Data Science, a boutique data consultancy based out of Sydney, Australia.
-Danny is a regular speaker at global data conferences, meetups and podcasts where he shares the importance of mentorship for all data professionals. He is also a technical author and instructor for O'Reilly.
